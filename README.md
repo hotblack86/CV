@@ -1,50 +1,88 @@
-## Your Name
+James Hotblack
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a full-stack junior software developer with a particular interest in
+front-end development.
+I very enthusiastic about coding and wish to develop this passion even
+further.
+
+My professional background has been in an unrelated field, but I relish a
+challenge and am excited by the ever-increasing importance of coding in so many
+aspects of life and the many possibilities that learning to code can offer.
+
+I am looking to start a career in the tech industry of Brighton or London
+where I can further grow as a Full-Stack developer and contribute to the success
+and innovation of a company therein.
+
 
 ## Skills
 
-#### This Skill
+Computing
+  Completed 20+ courses from Codecademy and a number from FreeCodeCamp.
+  Languages and skills studied include:-
+    - CSS and Sass
+    - Javascript and jQuery
+    - Python
+    - SQL
+    - Ruby/Ruby on rails,
+    - Git and Command Line,
+    - ReactJS,
+    - Node-SQlite,
+    - AngularJS
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+  - A level experience with programming in C++, MySQL and Javascript.
+  - Created a website as part of a project using macromedia flash.
 
-- Experience
-- Achievements
-- Evidence
+Problem Solving
+  - My degree in Economics has given me a good basis in maths and analytics.
+    These skills have frequently helped me to solve problems more quickly and
+    smoothly than I otherwise would have.
 
-#### Another Skill
+Inquisitiveness and Enthusiasm
+  - I love to learn and am dedicated to seeing projects through to the end,
+    regardless of how challenging they are. Makers has helped to focus my
+    abilities in both of these areas.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Communications
+  - Clear presentation and written communication skills
+  - Professional telephone manner – frequent customer interaction
+    in former employment.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Teamwork
+  -	Duke of Edinburgh award required team skills as well as navigational skills
+    during the hiking and camping.
+  -	Organised the Harveys Brewery team one year for the Lewes raft race.
+    This utilised leadership and teamwork skills as well as mechanical and
+    woodwork skills (to build the raft).
+  - I'm comfortable adapting to whichever team role is required by a particular
+    environment, whether that be leading or taking instruction from others.
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+Makers Academy (Nov '18 - March '19)
+A 16-week intensive development bootcamp, focusing on :
+  - OOP, TDD, MVC, DDD
+  - Agile/XP
+  - Ruby, Rails, JavaScript
+  - RSpec, Jasmine
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+University of Surrey 2005 - 2008
+  - BSc Economics
+  - 2:2
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Harvey & Son (Lewes) Ltd, Lewes, East Sussex (2009 - 2017)
+  A ‘medium sized’ independent brewery which has brewed traditional
+  beers and ales since 1790.
+
+  - Brewery Hand
+    Responsible for brewing, cask filling and maintenance
+    of the capital used for these tasks.
+
+## Interests
+  -	Guitar: I've played for 18 years now.
+  -	Music: Enjoy going to gigs whenever I can.
+  -	Reading: It's good to have a break from screens sometimes.
+  -	Football, Tennis and Running.
