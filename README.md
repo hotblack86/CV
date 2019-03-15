@@ -21,6 +21,7 @@ and innovation of a company therein.
 | A small backend app built in Javascript | A small Twitter clone that allows the user to post messages to a public stream. Built in Ruby  | Custom made Javascript testing framework| Single Page Event Planner App built in Javascript and tested using our own Testing Framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
 ## Skills
+Please see this portfolio (<iframe src="https://docs.google.com/document/d/e/2PACX-1vTgr7eH4_Y0hI2JpMUqWlzqvVO6DFfSPEPzkZjipRQ2JLdT_gSK1Ew46MtKuzNa2brZvxoTyjOsNWDQ/pub?embedded=true"></iframe>) for more details on the skills I've developed at Makers.
 
 #### Computing
   Completed 20+ courses from Codecademy and a number from FreeCodeCamp.
