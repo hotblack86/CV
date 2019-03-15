@@ -1,5 +1,7 @@
 ## James Hotblack
 
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests)
+
 I'm a full-stack junior software developer with a particular interest in
 front-end development.
 I very enthusiastic about coding and wish to develop this passion even
@@ -13,6 +15,10 @@ I am looking to start a career in the tech industry of Brighton or London
 where I can further grow as a Full-Stack developer and contribute to the success
 and innovation of a company therein.
 
+## Projects
+| [Boris Bikes](https://github.com/hotblack86/JavaScript_Boris_Bikes)  | [Chitter Challenge](https://github.com/hotblack86/chitter-challenge) | [JS Custom Testingframework](https://github.com/hotblack86/Custom_TF-JazzMine) | [Event Planner](https://github.com/hotblack86/SPA_Event_Planner) | [Orthogonal Quest](https://github.com/hotblack86/orthogonal-quest)
+|-------------| -----------|-------------------------| ---- | ------------ |
+| A small backend app built in Javascript | A small Twitter clone that allows the user to post messages to a public stream. Built in Ruby  | Custom made Javascript testing framework| Single Page Event Planner App built in Javascript and tested using our own Testing Framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
 ## Skills
 
