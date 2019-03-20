@@ -21,25 +21,14 @@ and innovation of a company therein.
 | A small backend app built in Javascript | A small Twitter clone that allows the user to post messages to a public stream. Built in Ruby  | Custom made Javascript testing framework| Single Page Event Planner App built in Javascript and tested using our own Testing Framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
 ## Skills
-Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbxra8t7JcsffOK9PntIvi4P4/edit?usp=sharing) for more details on the skills I've developed at Makers.
-
-#### Computing
-  Completed 20+ courses from Codecademy and a number from FreeCodeCamp.
-  Languages and skills studied include:-
-    - CSS and Sass
-    - Javascript and jQuery
-    - Python
-    - SQL
-    - Ruby/Ruby on rails,
-    - Git and Command Line,
-    - ReactJS,
-    - Node-SQlite,
-    - AngularJS
-
-  - A level experience with programming in C++, MySQL and Javascript.
-  - Created a website as part of a project using macromedia flash.
+Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbxra8t7JcsffOK9PntIvi4P4/edit?usp=sharing) for further evidence of the skills outlined below.
+    
 
 #### Problem Solving
+  - The Makers course has refined my approach to problem solving as we were faced with challenges daily. For example, one project was to make a custom testing framework and use it to TDD an app. Although making this was both educational and rewarding, it of course doesn’t have the same functionality or usability as established frameworks. I was also still getting to grips with JavaScript at this stage of the makers course.
+  To overcome these issues I utilised my debugging process, specifically using the console to manually test and console.log() to get visibility on my code.
+  Helpfully there was a lot of online documentation on JS and I was able to effectively find relevant solutions.
+
   - My degree in Economics has given me a good basis in maths and analytics.
     These skills have frequently helped me to solve problems more quickly and
     smoothly than I otherwise would have.
@@ -55,11 +44,13 @@ Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbx
     in former employment.
 
 #### Teamwork
-  -	Duke of Edinburgh award required team skills as well as navigational skills
-    during the hiking and camping.
+  - Makers really taught me the value of pair programming and agile processes. Our group projects involved daily standups,retros and checkins which help to unify the team.
+  For instance a fellow Maker and team member said:- "As a team we embraced Agile working processes and James was fully committed to this. I loved his measured and well thought out contributions at our stand ups, clear commit messages, and speedy responses to pull requests with really helpful messages. I'd be super happy if I ever had the opportunity to work with James again.”
   -	Organised the Harveys Brewery team one year for the Lewes raft race.
-    This utilised leadership and teamwork skills as well as mechanical and
-    woodwork skills (to build the raft).
+  This utilised leadership and teamwork skills as well as mechanical and
+  woodwork skills (to build the raft).
+  -	Duke of Edinburgh award required team skills as well as navigational skills
+  during the hiking and camping.
   - I'm comfortable adapting to whichever team role is required by a particular
     environment, whether that be leading or taking instruction from others.
 
