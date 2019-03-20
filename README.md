@@ -90,6 +90,6 @@ A 16-week intensive development bootcamp, focusing on :
   -	Football, Tennis and Running.
 
 ## Contact
-Github: https://github.com/hotblack86
-Codewars https://www.codewars.com/users/hotblack86
+  - Github: https://github.com/hotblack86
+  - Codewars https://www.codewars.com/users/hotblack86
 
