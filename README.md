@@ -1,6 +1,7 @@
 ## James Hotblack
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) 
+| [Contact](#Contact)
 
 I'm a full-stack junior software developer with a particular interest in
 front-end development.
@@ -37,6 +38,9 @@ Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbx
   - I love to learn and am dedicated to seeing projects through to the end,
     regardless of how challenging they are. Makers has helped to focus my
     abilities in both of these areas.
+
+#### Quick Study 
+  - Able to take on new technologies and learn new practices rapidly and efficiently. I actively sought out challenges during the Makers course, including producing our two week final project in Python and Pygame with no prior experience.
 
 #### Communications
   - Clear presentation and written communication skills
@@ -84,3 +88,8 @@ A 16-week intensive development bootcamp, focusing on :
   -	Music: Enjoy going to gigs whenever I can.
   -	Reading: It's good to have a break from screens sometimes.
   -	Football, Tennis and Running.
+
+## Contact
+Github: https://github.com/hotblack86
+Codewars https://www.codewars.com/users/hotblack86
+
