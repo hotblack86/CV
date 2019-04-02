@@ -4,7 +4,7 @@
 | [Contact](#Contact)
 
 I'm a full-stack junior software developer with a particular interest in
-front-end development.
+back-end development.
 I very enthusiastic about coding and wish to develop this passion even
 further.
 
