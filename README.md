@@ -17,9 +17,9 @@ where I can further grow as a Full-Stack developer and contribute to the success
 and innovation of a company therein.
 
 ## Projects
-| [Boris Bikes](https://github.com/hotblack86/JavaScript_Boris_Bikes)  | [Chitter Challenge](https://github.com/hotblack86/chitter-challenge) | [JS Custom Testingframework](https://github.com/hotblack86/Custom_TF-JazzMine) | [Event Planner](https://github.com/hotblack86/SPA_Event_Planner) | [Orthogonal Quest](https://github.com/hotblack86/orthogonal-quest)
+| [Basic Facebook Clone](https://github.com/hotblack86/AJAX_AceBook_ReactVersion)  | [Chitter Challenge](https://github.com/hotblack86/chitter-challenge) | [JS Custom Testingframework](https://github.com/hotblack86/Custom_TF-JazzMine) | [Event Planner](https://github.com/hotblack86/SPA_Event_Planner) | [Orthogonal Quest](https://github.com/hotblack86/orthogonal-quest)
 |-------------| -----------|-------------------------| ---- | ------------ |
-| A small backend app built in Javascript | A small Twitter clone that allows the user to post messages to a public stream. Built in Ruby  | Custom made Javascript testing framework| Single Page Event Planner App built in Javascript and tested using our own Testing Framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
+| A basic Facebook clone built using Rails and React | A small Twitter clone that allows the user to post messages to a public stream. Built in Ruby  | Custom made Javascript testing framework| Single Page Event Planner App built in Javascript and tested using our own Testing Framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
 ## Skills
 Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbxra8t7JcsffOK9PntIvi4P4/edit?usp=sharing) for further evidence of the skills outlined below.
