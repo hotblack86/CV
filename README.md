@@ -1,7 +1,7 @@
 ## James Hotblack
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |  [Interests](#Interests) 
-| [Contact](#Contact)
+| [Links](#Links)
 
 I'm a full-stack junior software developer with a particular interest in
 back-end development.
@@ -89,7 +89,8 @@ A 16-week intensive development bootcamp, focusing on :
   -	Reading: It's good to have a break from screens sometimes.
   -	Football, Tennis and Running.
 
-## Contact
+## Links
   - Github: https://github.com/hotblack86
-  - Codewars https://www.codewars.com/users/hotblack86
+  - Codewars: https://www.codewars.com/users/hotblack86
+  - Codecademy: https://www.codecademy.com/hotblack86
 
