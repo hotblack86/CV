@@ -63,10 +63,11 @@ Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbx
 
 #### Makers Academy (Nov '18 - March '19)
 A 16-week intensive development bootcamp, focusing on :
-  - OOP, TDD, MVC, DDD
-  - Agile/XP
-  - Ruby, Rails, JavaScript
-  - RSpec, Jasmine
+    - Ruby, Rails, JavaScript
+    - Test Driven Development and Pair Programming
+    - OOP, MVC, DDD, REST
+    - Agile methodologies and XP values
+    - Group projects and code reviews
 
 #### University of Surrey 2005 - 2008
   - BSc Economics
@@ -93,4 +94,5 @@ A 16-week intensive development bootcamp, focusing on :
   - Github: https://github.com/hotblack86
   - Codewars: https://www.codewars.com/users/hotblack86
   - Codecademy: https://www.codecademy.com/hotblack86
+  - Portfolio: https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbxra8t7JcsffOK9PntIvi4P4/edit?usp=sharing
 
