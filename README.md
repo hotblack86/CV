@@ -62,17 +62,12 @@ Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbx
 ## Education
 
 #### Makers Academy (Nov '18 - March '19)
-A 16-week intensive development bootcamp, focusing on :
-
-    - Ruby, Rails, JavaScript
-    
-    - Test Driven Development and Pair Programming
-    
-    - OOP, MVC, DDD, REST
-    
-    - Agile methodologies and XP values
-    
-    - Group projects and code reviews
+A 16-week intensive development bootcamp, focusing on:
+  - Ruby, Rails, JavaScript
+  - Test Driven Development and Pair Programming
+  - OOP, MVC, DDD, REST
+  - Agile methodologies and XP values
+  - Group projects and code reviews
 
 #### University of Surrey 2005 - 2008
   - BSc Economics
