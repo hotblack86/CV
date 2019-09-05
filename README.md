@@ -4,8 +4,8 @@
 | [Links](#Links)
 
 I'm a full-stack junior software developer with a particular interest in
-back-end development.
-I very enthusiastic about coding and wish to develop this passion even
+Javascript.
+I very enthusiastic about coding and learning new technologies and wish to develop this passion even
 further.
 
 My professional background has been in an unrelated field, but I relish a
