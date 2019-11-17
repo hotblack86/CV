@@ -19,7 +19,7 @@ and innovation of a company therein.
 ## Projects
 | [Basic Facebook Clone](https://github.com/hotblack86/AJAX_AceBook_ReactVersion)  | [Brewdog API](https://https://github.com/hotblack86/brewdog-api-react) | [Roomba Game](https://github.com/hotblack86/Roomba) | [Event Planner](https://github.com/hotblack86/SPA_Event_Planner) | [Orthogonal Quest](https://github.com/hotblack86/orthogonal-quest)
 |-------------| -----------|-------------------------| ---- | ------------ |
-| A basic Facebook clone built using Rails and React | A React App that searches the Brewdog API and returns beers based on the search term  | Custom made Javascript testing framework| A Server-Side CL game navigating an imaginary robotic hoover through an equally imaginary room | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
+| A basic Facebook clone built using Rails and React | A React App that searches the Brewdog API and returns beers based on the search term  | A Server-Side(Node JS) CL game navigating an imaginary robotic hoover through an equally imaginary room| Single Page Event Planner App tested with a custom built framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
 ## Skills
 Please see [This link](https://docs.google.com/document/d/19mCW2facwDOzX0DQgoKbxra8t7JcsffOK9PntIvi4P4/edit?usp=sharing) for further evidence of the skills outlined below.
