@@ -17,7 +17,7 @@ where I can further grow as a Full-Stack developer and contribute to the success
 and innovation of a company therein.
 
 ## Projects
-| [Basic Facebook Clone](https://github.com/hotblack86/AJAX_AceBook_ReactVersion)  | [Brewdog API](https://https://github.com/hotblack86/brewdog-api-react) | [Roomba Game](https://github.com/hotblack86/Roomba) | [Event Planner](https://github.com/hotblack86/SPA_Event_Planner) | [Orthogonal Quest](https://github.com/hotblack86/orthogonal-quest)
+| [Basic Facebook Clone](https://github.com/hotblack86/AJAX_AceBook_ReactVersion)  | [Brewdog API](https://github.com/hotblack86/brewdog-api-react) | [Roomba Game](https://github.com/hotblack86/Roomba) | [Event Planner](https://github.com/hotblack86/SPA_Event_Planner) | [Orthogonal Quest](https://github.com/hotblack86/orthogonal-quest)
 |-------------| -----------|-------------------------| ---- | ------------ |
 | A basic Facebook clone built using Rails and React | A React App that searches the Brewdog API and returns beers based on the search term  | A Server-Side(Node JS) CL game navigating an imaginary robotic hoover through an equally imaginary room| Single Page Event Planner App tested with a custom built framework | Final group project at Makers Academy - a top-down, adventure game written in Python using the PyGame library
 
